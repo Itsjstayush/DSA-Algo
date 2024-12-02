@@ -19,5 +19,6 @@ int main()
     {
         cout<<a[i]<<"\n";
     }
+    int i=0;
     return 0;
 }
