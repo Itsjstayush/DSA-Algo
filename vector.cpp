@@ -13,7 +13,7 @@ int main()
         for(int i=0; i<a.size();i++)
         {
         	
-        	cout<<"element"<<i<<":"<<a[i]<<"\n";
+        	cout<<"element"<<i<<":"<<a[i]<<endl;
 		}
     
 return 0;
