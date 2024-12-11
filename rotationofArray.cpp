@@ -12,7 +12,7 @@ void rotateArr(vector<int>& arr, int d) {
    }
    for(int i=0;i<d;i++)
    {
-    temp[]=arr[i];
+    temp[d+i]=arr[i];
    }
    arr=temp;
 }
